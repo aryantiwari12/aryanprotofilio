@@ -41,7 +41,12 @@ function TechStack() {
         Web Technologies
       </h1>
       <p className="font-mono">
-        As a frontend developer, I am well-versed in a variety of web technologies that enable me to create stunning and interactive web experiences. From the foundational building blocks like HTML5 and CSS3 to the dynamic capabilities of JavaScript and React, I harness these technologies to craft user-friendly and visually appealing websites. With expertise in tools like VSCode, GitHub, and Tailwind CSS, I ensure that my web projects are not only aesthetically pleasing but also efficient and easy to maintain. My proficiency in these technologies empowers me to bring your web design visions to life, blending creativity with functionality.
+        As a frontend developer, I am well-versed in a variety of web technologies that enable me to create stunning and interactive web
+         experiences. From the foundational building blocks like HTML5 and CSS3 to the dynamic capabilities of JavaScript and React, 
+         I harness these technologies to craft user-friendly and visually appealing websites. With expertise in tools like VSCode, 
+         GitHub, and  CSS, I ensure that my web projects are not only aesthetically pleasing but also efficient and easy to 
+         maintain. My proficiency in these technologies empowers me to bring your web design visions to life, blending 
+         creativity with functionality.
       </p>
     </div>
     <div className="pt-24 w-full lg:w-1/2">

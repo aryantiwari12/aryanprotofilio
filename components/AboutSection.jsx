@@ -97,30 +97,37 @@ const AboutSection = () => {
                 <>
                 <ul className="text-white">
                     <li className=' list-disc '>
-                        Introduction to HTML5
+                    Career Edge offered 
                         <ul className="text-gray-400 italic mb-2">
-                        <li>Coursera</li>
-                        <li>Issued Jun 2020</li>
+                        <li>TCS ION</li>
+                        <li>Issued Jun 2022</li>
                         </ul>
                     </li>
                     <li className=' list-disc '>
-                        HTML/CSS
+                    Machine Learning with Python 
                         <ul className="text-gray-400 italic mb-2">
-                        <li>TestDome</li>
+                        <li>IBM</li>
                         <li>Issued Jul 2023</li>
                         </ul>
                     </li>
                     <li className=' list-disc '>
-                        Programming in HTML5 with JavaScript and CSS3
+                    Cloud Core 
                         <ul className="text-gray-400 italic mb-2">
-                        <li>HackerRank</li>
+                        <li>IBM</li>
                         <li>Issued Sep 2023</li>
                         </ul>
                     </li>
                     <li className=' list-disc '>
-                        Frontend Development
+                       Node Js
                         <ul className="text-gray-400 italic mb-2">
                         <li>Sheriyans</li>
+                        <li>2023</li>
+                        </ul>
+                    </li>
+                    <li className=' list-disc '>
+                    Microsoft AI Classroom Series
+                        <ul className="text-gray-400 italic mb-2">
+                        <li>Microsoft</li>
                         <li>2023</li>
                         </ul>
                     </li>
